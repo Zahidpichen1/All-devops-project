@@ -1,1 +1,1 @@
-https://github.com/Zahidpichen1/project-7-Heart-Disease-Prediction.git
+https://github.com/Zahidpichen1/project-7-Market-Recommendation-Engine.git
